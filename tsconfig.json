@@ -1,4 +1,9 @@
 {
+  "include": [
+    "src/*.ts",
+    "src/**/*.ts",
+    ".eslintrc"
+  ],
   "compilerOptions": {
     "module": "commonjs",
     "target": "es5",
